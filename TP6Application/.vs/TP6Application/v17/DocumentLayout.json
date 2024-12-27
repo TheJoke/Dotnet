@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\9raya\\3eme\\DotNet\\TP6Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3874CCF-702D-456F-A13B-416EADDF3201}|TP6Application\\TP6Application.csproj|d:\\9raya\\3eme\\dotnet\\tp6application\\tp6application\\helpers\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3874CCF-702D-456F-A13B-416EADDF3201}|TP6Application\\TP6Application.csproj|solutionrelative:tp6application\\helpers\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3874CCF-702D-456F-A13B-416EADDF3201}|TP6Application\\TP6Application.csproj|d:\\9raya\\3eme\\dotnet\\tp6application\\tp6application\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3874CCF-702D-456F-A13B-416EADDF3201}|TP6Application\\TP6Application.csproj|solutionrelative:tp6application\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3874CCF-702D-456F-A13B-416EADDF3201}|TP6Application\\TP6Application.csproj|d:\\9raya\\3eme\\dotnet\\tp6application\\tp6application\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3874CCF-702D-456F-A13B-416EADDF3201}|TP6Application\\TP6Application.csproj|solutionrelative:tp6application\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3874CCF-702D-456F-A13B-416EADDF3201}|TP6Application\\TP6Application.csproj|d:\\9raya\\3eme\\dotnet\\tp6application\\tp6application\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3874CCF-702D-456F-A13B-416EADDF3201}|TP6Application\\TP6Application.csproj|solutionrelative:tp6application\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3874CCF-702D-456F-A13B-416EADDF3201}|TP6Application\\TP6Application.csproj|d:\\9raya\\3eme\\dotnet\\tp6application\\tp6application\\models\\addrolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3874CCF-702D-456F-A13B-416EADDF3201}|TP6Application\\TP6Application.csproj|solutionrelative:tp6application\\models\\addrolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3874CCF-702D-456F-A13B-416EADDF3201}|TP6Application\\TP6Application.csproj|d:\\9raya\\3eme\\dotnet\\tp6application\\tp6application\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3874CCF-702D-456F-A13B-416EADDF3201}|TP6Application\\TP6Application.csproj|solutionrelative:tp6application\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3874CCF-702D-456F-A13B-416EADDF3201}|TP6Application\\TP6Application.csproj|d:\\9raya\\3eme\\dotnet\\tp6application\\tp6application\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3874CCF-702D-456F-A13B-416EADDF3201}|TP6Application\\TP6Application.csproj|solutionrelative:tp6application\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3874CCF-702D-456F-A13B-416EADDF3201}|TP6Application\\TP6Application.csproj|d:\\9raya\\3eme\\dotnet\\tp6application\\tp6application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3874CCF-702D-456F-A13B-416EADDF3201}|TP6Application\\TP6Application.csproj|solutionrelative:tp6application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3874CCF-702D-456F-A13B-416EADDF3201}|TP6Application\\TP6Application.csproj|d:\\9raya\\3eme\\dotnet\\tp6application\\tp6application\\models\\tokenrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3874CCF-702D-456F-A13B-416EADDF3201}|TP6Application\\TP6Application.csproj|solutionrelative:tp6application\\models\\tokenrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3874CCF-702D-456F-A13B-416EADDF3201}|TP6Application\\TP6Application.csproj|d:\\9raya\\3eme\\dotnet\\tp6application\\tp6application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3874CCF-702D-456F-A13B-416EADDF3201}|TP6Application\\TP6Application.csproj|solutionrelative:tp6application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3874CCF-702D-456F-A13B-416EADDF3201}|TP6Application\\TP6Application.csproj|d:\\9raya\\3eme\\dotnet\\tp6application\\tp6application\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3874CCF-702D-456F-A13B-416EADDF3201}|TP6Application\\TP6Application.csproj|solutionrelative:tp6application\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\9raya\\3eme\\DotNet\\TP6Application\\TP6Application\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "TP6Application\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\9raya\\3eme\\DotNet\\TP6Application\\TP6Application\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "TP6Application\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T13:53:21.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\9raya\\3eme\\DotNet\\TP6Application\\TP6Application\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "TP6Application\\Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\9raya\\3eme\\DotNet\\TP6Application\\TP6Application\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "TP6Application\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T13:49:32.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "D:\\9raya\\3eme\\DotNet\\TP6Application\\TP6Application\\Models\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "TP6Application\\Models\\ApplicationDBContext.cs",
+              "ToolTip": "D:\\9raya\\3eme\\DotNet\\TP6Application\\TP6Application\\Models\\ApplicationDBContext.cs",
+              "RelativeToolTip": "TP6Application\\Models\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T06:00:52.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\9raya\\3eme\\DotNet\\TP6Application\\TP6Application\\appsettings.json",
+              "RelativeDocumentMoniker": "TP6Application\\appsettings.json",
+              "ToolTip": "D:\\9raya\\3eme\\DotNet\\TP6Application\\TP6Application\\appsettings.json",
+              "RelativeToolTip": "TP6Application\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-07T18:12:06.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JWT.cs",
+              "DocumentMoniker": "D:\\9raya\\3eme\\DotNet\\TP6Application\\TP6Application\\Helpers\\JWT.cs",
+              "RelativeDocumentMoniker": "TP6Application\\Helpers\\JWT.cs",
+              "ToolTip": "D:\\9raya\\3eme\\DotNet\\TP6Application\\TP6Application\\Helpers\\JWT.cs",
+              "RelativeToolTip": "TP6Application\\Helpers\\JWT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T06:00:33.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\9raya\\3eme\\DotNet\\TP6Application\\TP6Application\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TP6Application\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\9raya\\3eme\\DotNet\\TP6Application\\TP6Application\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TP6Application\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAADwvywAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:44:00.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\9raya\\3eme\\DotNet\\TP6Application\\TP6Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "TP6Application\\Services\\AuthService.cs",
+              "ToolTip": "D:\\9raya\\3eme\\DotNet\\TP6Application\\TP6Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "TP6Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAIwD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:45:39.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TokenRequestModel.cs",
+              "DocumentMoniker": "D:\\9raya\\3eme\\DotNet\\TP6Application\\TP6Application\\Models\\TokenRequestModel.cs",
+              "RelativeDocumentMoniker": "TP6Application\\Models\\TokenRequestModel.cs",
+              "ToolTip": "D:\\9raya\\3eme\\DotNet\\TP6Application\\TP6Application\\Models\\TokenRequestModel.cs",
+              "RelativeToolTip": "TP6Application\\Models\\TokenRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:56:24.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddRoleModel.cs",
+              "DocumentMoniker": "D:\\9raya\\3eme\\DotNet\\TP6Application\\TP6Application\\Models\\AddRoleModel.cs",
+              "RelativeDocumentMoniker": "TP6Application\\Models\\AddRoleModel.cs",
+              "ToolTip": "D:\\9raya\\3eme\\DotNet\\TP6Application\\TP6Application\\Models\\AddRoleModel.cs",
+              "RelativeToolTip": "TP6Application\\Models\\AddRoleModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:58:27.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\9raya\\3eme\\DotNet\\TP6Application\\TP6Application\\Program.cs",
+              "RelativeDocumentMoniker": "TP6Application\\Program.cs",
+              "ToolTip": "D:\\9raya\\3eme\\DotNet\\TP6Application\\TP6Application\\Program.cs",
+              "RelativeToolTip": "TP6Application\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T08:29:25.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\9raya\\3eme\\DotNet\\TP6Application\\TP6Application\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "TP6Application\\Services\\IAuthService.cs",
+              "ToolTip": "D:\\9raya\\3eme\\DotNet\\TP6Application\\TP6Application\\Services\\IAuthService.cs",
+              "RelativeToolTip": "TP6Application\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:45:54.923Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

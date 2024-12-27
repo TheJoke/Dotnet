@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\21697\\source\\repos\\UserWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C401EDC0-49CE-476A-A70B-A2BA9E1BAE7B}|UserWebApp.csproj|c:\\users\\21697\\source\\repos\\userwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C401EDC0-49CE-476A-A70B-A2BA9E1BAE7B}|UserWebApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C401EDC0-49CE-476A-A70B-A2BA9E1BAE7B}|UserWebApp.csproj|c:\\users\\21697\\source\\repos\\userwebapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C401EDC0-49CE-476A-A70B-A2BA9E1BAE7B}|UserWebApp.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C401EDC0-49CE-476A-A70B-A2BA9E1BAE7B}|UserWebApp.csproj|c:\\users\\21697\\source\\repos\\userwebapp\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C401EDC0-49CE-476A-A70B-A2BA9E1BAE7B}|UserWebApp.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C401EDC0-49CE-476A-A70B-A2BA9E1BAE7B}|UserWebApp.csproj|c:\\users\\21697\\source\\repos\\userwebapp\\controllers\\schoolscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C401EDC0-49CE-476A-A70B-A2BA9E1BAE7B}|UserWebApp.csproj|solutionrelative:controllers\\schoolscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\21697\\source\\repos\\UserWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\21697\\source\\repos\\UserWebApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-06T10:09:13.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\21697\\source\\repos\\UserWebApp\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\21697\\source\\repos\\UserWebApp\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T03:56:51.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\21697\\source\\repos\\UserWebApp\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\21697\\source\\repos\\UserWebApp\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T03:52:14.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SchoolsController.cs",
+              "DocumentMoniker": "C:\\Users\\21697\\source\\repos\\UserWebApp\\Controllers\\SchoolsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SchoolsController.cs",
+              "ToolTip": "C:\\Users\\21697\\source\\repos\\UserWebApp\\Controllers\\SchoolsController.cs",
+              "RelativeToolTip": "Controllers\\SchoolsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T03:52:13.824Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\9raya\\3eme\\DotNet\\TP3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5736F72-AFEE-47B7-B917-2D328C30E078}|Atelier2Application.csproj|d:\\9raya\\3eme\\dotnet\\tp3\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5736F72-AFEE-47B7-B917-2D328C30E078}|Atelier2Application.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5736F72-AFEE-47B7-B917-2D328C30E078}|Atelier2Application.csproj|d:\\9raya\\3eme\\dotnet\\tp3\\viewmodels\\editviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5736F72-AFEE-47B7-B917-2D328C30E078}|Atelier2Application.csproj|solutionrelative:viewmodels\\editviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5736F72-AFEE-47B7-B917-2D328C30E078}|Atelier2Application.csproj|d:\\9raya\\3eme\\dotnet\\tp3\\viewmodels\\createviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5736F72-AFEE-47B7-B917-2D328C30E078}|Atelier2Application.csproj|solutionrelative:viewmodels\\createviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5736F72-AFEE-47B7-B917-2D328C30E078}|Atelier2Application.csproj|d:\\9raya\\3eme\\dotnet\\tp3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5736F72-AFEE-47B7-B917-2D328C30E078}|Atelier2Application.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditViewModel.cs",
+              "DocumentMoniker": "D:\\9raya\\3eme\\DotNet\\TP3\\ViewModels\\EditViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\EditViewModel.cs",
+              "ToolTip": "D:\\9raya\\3eme\\DotNet\\TP3\\ViewModels\\EditViewModel.cs",
+              "RelativeToolTip": "ViewModels\\EditViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T10:55:50.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\9raya\\3eme\\DotNet\\TP3\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "D:\\9raya\\3eme\\DotNet\\TP3\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowKsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T10:08:18.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateViewModel.cs",
+              "DocumentMoniker": "D:\\9raya\\3eme\\DotNet\\TP3\\ViewModels\\CreateViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\CreateViewModel.cs",
+              "ToolTip": "D:\\9raya\\3eme\\DotNet\\TP3\\ViewModels\\CreateViewModel.cs",
+              "RelativeToolTip": "ViewModels\\CreateViewModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T10:48:46.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\9raya\\3eme\\DotNet\\TP3\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\9raya\\3eme\\DotNet\\TP3\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T10:07:42.254Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

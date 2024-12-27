@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\9raya\\3eme\\DotNet\\MicroservicesApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D33EC254-10AD-488F-B852-D4219E6C65D0}|APIGateway\\APIGateway.csproj|d:\\9raya\\3eme\\dotnet\\microservicesapp\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33EC254-10AD-488F-B852-D4219E6C65D0}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B3D3FB-384A-4E93-A996-8CD2B86925CD}|ProductsAPI\\ProductsAPI.csproj|d:\\9raya\\3eme\\dotnet\\microservicesapp\\productsapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B3D3FB-384A-4E93-A996-8CD2B86925CD}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FBFCED-7648-4D5E-A4D8-D2AD27152057}|OrdersAPI\\OrdersAPI.csproj|d:\\9raya\\3eme\\dotnet\\microservicesapp\\ordersapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25FBFCED-7648-4D5E-A4D8-D2AD27152057}|OrdersAPI\\OrdersAPI.csproj|solutionrelative:ordersapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B3D3FB-384A-4E93-A996-8CD2B86925CD}|ProductsAPI\\ProductsAPI.csproj|d:\\9raya\\3eme\\dotnet\\microservicesapp\\productsapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B3D3FB-384A-4E93-A996-8CD2B86925CD}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\9raya\\3eme\\DotNet\\MicroservicesApp\\APIGateway\\Program.cs",
+              "RelativeDocumentMoniker": "APIGateway\\Program.cs",
+              "ToolTip": "D:\\9raya\\3eme\\DotNet\\MicroservicesApp\\APIGateway\\Program.cs",
+              "RelativeToolTip": "APIGateway\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T10:29:38.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\9raya\\3eme\\DotNet\\MicroservicesApp\\OrdersAPI\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "OrdersAPI\\Models\\Order.cs",
+              "ToolTip": "D:\\9raya\\3eme\\DotNet\\MicroservicesApp\\OrdersAPI\\Models\\Order.cs",
+              "RelativeToolTip": "OrdersAPI\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T10:11:38.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\9raya\\3eme\\DotNet\\MicroservicesApp\\ProductsAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\9raya\\3eme\\DotNet\\MicroservicesApp\\ProductsAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductsAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T09:59:25.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\9raya\\3eme\\DotNet\\MicroservicesApp\\ProductsAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Models\\Product.cs",
+              "ToolTip": "D:\\9raya\\3eme\\DotNet\\MicroservicesApp\\ProductsAPI\\Models\\Product.cs",
+              "RelativeToolTip": "ProductsAPI\\Models\\Product.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T09:45:48.234Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

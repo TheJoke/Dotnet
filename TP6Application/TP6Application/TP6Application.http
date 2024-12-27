@@ -1,0 +1,6 @@
+@TP6Application_HostAddress = http://localhost:5193
+
+GET {{TP6Application_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
